@@ -7,8 +7,8 @@ Web Developer & Designer
 I've 10 years job experience in WordPress, PHP, HTML, CSS. In these days learning React Js, React Native & Next Js.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Personal Website](http://mrpreet.dev)
-* ✉️  You can contact me at [mrpreet.dev@gmail.com](mailto:mrpreet.dev@gmail.com)
+* 🖥️  See my portfolio at [Personal Website](http://jsonpreet.xyz)
+* ✉️  You can contact me at [josonpreet@gmail.com](mailto:josonpreet@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Deso Web3
 
