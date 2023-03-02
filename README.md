@@ -10,7 +10,7 @@ I've 10 years job experience in WordPress, PHP, HTML, CSS. In these days learnin
 * 🖥️  See my portfolio at [Personal Website](http://jsonpreet.xyz)
 * ✉️  You can contact me at [josonpreet@gmail.com](mailto:josonpreet@gmail.com)
 * 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on Deso Web3
+* 🤝  I'm open to collaborating on Web3 Projects
 
 <a href="https://www.twitter.com/jsonpreet" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jsonpreet?logo=twitter&style=for-the-badge&color=f97316&labelColor=22272e"
