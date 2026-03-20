@@ -4,7 +4,7 @@ Hi 👋 My name is Harpreet
 Web Developer & Designer
 ------------------------
 
-I've 10 years job experience in WordPress, PHP, HTML, CSS. In these days learning React Js, React Native & Next Js.
+I've 14 years job experience in WordPress, PHP, HTML, CSS. In these days learning React Js, React Native & Next Js.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Personal Website](http://jsonpreet.xyz)
